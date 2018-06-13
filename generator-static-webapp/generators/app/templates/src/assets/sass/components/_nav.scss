@@ -19,5 +19,9 @@ nav.menu{
     display:inline-block;
     color:#f442df;
     font-size: 1.5rem;
+
+    &.fa-motorcycle{
+      font-size:1.75rem;
+    }
   }
 }
