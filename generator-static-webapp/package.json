@@ -80,6 +80,6 @@
       "prettier"
     ]
   },
-  "repository": "darbley/generator-static-webapp",
+  "repository": "https://github.com/darbley/yg-static-webapp",
   "license": "MIT"
 }

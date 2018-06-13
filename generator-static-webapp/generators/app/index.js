@@ -14,7 +14,7 @@ module.exports = class extends Generator {
       {
         type: 'confirm',
         name: 'someAnswer',
-        message: 'Are you ready to code?',
+        message: 'Are you ready to code dawg?',
         default: true
       }
     ];
