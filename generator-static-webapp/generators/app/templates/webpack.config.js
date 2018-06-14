@@ -36,18 +36,6 @@ let cleanOptions = {
 
 module.exports = {
   mode: "development", // enabled useful tools for development
-/*  entry: {
-
-      app: [
-
-        './src/main.js',
-
-        // Point to scss file for compiling css rather than - require('./assets/sass/styles.scss')
-        './src/assets/sass/styles.scss'
-
-      ]
-
-  }*/
   
   entry: {
     './app.js':  './src/app.js', // will be  ./build/application/bundle.js,
