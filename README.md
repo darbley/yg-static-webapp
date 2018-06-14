@@ -12,6 +12,7 @@ Initial setup comes comes ready for development with Bootstrap, jQuery, Font Awe
 Dev server points to 'en' folder.
 * Run `npm run start:dev` to boot up webserver
 * Run `npm run build:watch` to build for PROD and restart dev server
+
 Note: When editing SASS, CSS, or JS files, the webserver will reload the assets. 
 When editing an HTML file, you will need to run `npm run build:watch` to see your changes.
 
