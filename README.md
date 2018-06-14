@@ -19,5 +19,5 @@ Note: When editing SASS, CSS, or JS files, the webserver will reload the assets.
 When editing an HTML file, you will need to run `npm run build:watch` to see your changes.
 
 # Deployment Instructions
-*  Upload Dist folder to apache server
-* The dist folder contains an .htaccess file that will point to the en folder
+*  Upload 'dist' folder to apache server
+* The 'dist' folder contains an .htaccess file that will point to the en folder
